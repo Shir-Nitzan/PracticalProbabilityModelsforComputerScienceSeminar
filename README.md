@@ -40,6 +40,4 @@ After each round, we update the winners using the predict_winner function and th
 
 So after we predicted all the stages, we finally got the winners.
 
-And the winners are:
 
-![image](https://user-images.githubusercontent.com/62726511/205760422-60344d00-f696-4949-8e07-707f8cfe7fae.png)
